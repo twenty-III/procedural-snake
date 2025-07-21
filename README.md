@@ -8,8 +8,6 @@ A visually engaging and mathematically clean snake simulation built using **C++ 
 
 ![Snake Preview](images/snake_demo.png)
 
-> Make sure to place your screenshot as `snake_demo.png` in an `images` folder next to this README.
-
 ---
 
 ## 🎮 Features
