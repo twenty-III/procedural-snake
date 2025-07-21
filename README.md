@@ -22,7 +22,7 @@ A visually engaging and mathematically clean snake simulation built using **C++ 
 ## 🧪 Tech Stack
 
 - **C++**
-- **SFML 2.x**
+- **SFML 3.x**
 - STL: `vector`, `optional`, and `cmath`
 - Procedural shape rendering and real-time motion logic
 
